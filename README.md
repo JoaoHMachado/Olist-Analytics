@@ -118,7 +118,6 @@ Formulação de recomendações estratégicas baseadas em dados.
 João Pedro
 
 LinkedIn: www.linkedin.com/in/joaopedrobarbosa-analyst
-GitHub: https://github.com/seu-usuario
 
 Lucas Freitas
 
