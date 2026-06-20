@@ -84,7 +84,7 @@ Implementar estratégias para aumento do ticket médio;
 Diversificar os meios de pagamento, ampliando o uso do Pix e carteiras digitais.
 
 📊 Dashboard
-O projeto inclui dashboards desenvolvidos em Power BI para visualização dos principais indicadores:
+O projeto inclui dashboards desenvolvidos para visualização dos principais indicadores:
 
 Receita mensal;
 Volume de pedidos;
